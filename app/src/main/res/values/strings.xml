@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">A7S212021prac2</string>
+    <string name="tituloinicio">Titulo de la aplicacion</string>
+    <string name="tituloprincipal">Menu de Opciones</string>
+    <string name="btnprincipal">Sumar Numeros</string>
+    <string name="tituloSumar">Sumar dos numeros</string>
+    <string name="etiquetanum1">Ingrese el primer valor</string>
+    <string name="etiquetanum2">Ingrese el segundo valor</string>
+    <string name="btncalcular">Calcular resultado</string>
+    <string name="titulosRestar">Restar 2 Numeros</string>
+    <string name="btnprincipalr">Restar Numeros</string>
+    <string name="etiquetanumr1">Ingresa el primer valor</string>
+    <string name="etiquetanumr2">Ingresa el segundo valor</string>
+    <string name="btnprincipalm">Multiplicar Numeros</string>
+    <string name="titulosmultiplicar">Multiplicar 2 numeros</string>
+    <string name="etiquetanumm1">Ingresa el primer valor</string>
+    <string name="etiquetanumm2">Ingresa el segundo valor</string>
+    <string name="btnprincipale">Elevar numero al cuadrado</string>
+    <string name="tituloselevaralcuadrado">Eleva un numero al cuadrado</string>
+    <string name="etiquetanume">Ingresa el valor a elevar</string>
+    <string name="elevador">2</string>
+    <string name="etiquetanume2">segundo valor</string>
+</resources>
